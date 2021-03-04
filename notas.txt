@@ -1,1 +1,3 @@
 Notas para a minha aplicação Android.
+
+1 - Criar ecrãns da aplicação.
